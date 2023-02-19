@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryVariant">#3700B3</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorAccent">#7C78F0</color>
+    <color name="salmon">#F08D78</color>
+    <color name="lightBlue">#9996E7</color>
+    <color name="niceBlue">#514BF9</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="yellow">#FFFFCC</color>
+    <color name="sparkGreen">#78F0C9</color>
+    <color name="coolSkyBlue">#D5E8F5</color>
+    <color name="coolToolbarBlue">#B1DCF9</color>
+    <color name="coolGreenBtnAdd">#65C173</color>
+    <color name="coolGreenLightBtnAdd">#89B690</color>
+</resources>
